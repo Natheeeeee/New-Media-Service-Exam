@@ -1,0 +1,548 @@
+.about-us,
+.about-us * {
+    box-sizing: border-box;
+}
+
+.about-us {
+    background: #223354;
+    height: 3546px;
+    position: relative;
+    overflow: hidden;
+}
+
+.red-circle-faded {
+    background: rgba(229, 26, 37, 0.50);
+    border-radius: 50%;
+    width: 454px;
+    height: 452px;
+    position: absolute;
+    left: 118px;
+    top: -323px;
+    filter: blur(200px);
+}
+
+.navbar-nav {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    align-items: center;
+    justify-content: flex-start;
+    position: absolute;
+    right: 225px;
+    top: 16px;
+}
+
+.nav-items {
+    padding: 6px 16px 6px 16px;
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.nav-link {
+    color: var(--default-white, #ffffff);
+    text-align: left;
+    font-family: var(--body-base-text-font-family, 'Inter-Regular', sans-serif);
+    font-size: var(--body-base-text-font-size, 16px);
+    line-height: var(--body-base-text-line-height, 28px);
+    font-weight: var(--body-base-text-font-weight, 400);
+    position: relative;
+}
+
+.nav-link2 {
+    color: var(--default-white, #ffffff);
+    text-align: left;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 400;
+    position: relative;
+}
+
+.logo {
+    width: 495.73px;
+    height: 98px;
+    position: absolute;
+    left: 76.59px;
+    top: -14px;
+    transform-origin: 0 0;
+    transform: rotate(0.344deg) scale(1, 1);
+    object-fit: cover;
+}
+
+.ellipse-20 {
+    background: rgba(229, 26, 37, 0.50);
+    border-radius: 50%;
+    width: 31.53%;
+    height: 452px;
+    position: absolute;
+    right: -15.9%;
+    left: 84.38%;
+    top: 386px;
+    filter: blur(200px);
+}
+
+.ellipse-19 {
+    background: rgba(229, 26, 37, 0.50);
+    border-radius: 50%;
+    width: 31.53%;
+    height: 452px;
+    position: absolute;
+    right: 88.89%;
+    left: -20.42%;
+    top: 963px;
+    filter: blur(200px);
+}
+
+.portrait-happy-asian-woman-pointing-fingers-down-looking-advertisement-showing-info-removebg-preview-1 {
+    width: 556px;
+    height: 356px;
+    position: absolute;
+    left: calc(50% - 310px);
+    top: 348px;
+    object-fit: cover;
+}
+
+.about-us2 {
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Inter-ExtraBold', sans-serif;
+    font-size: 50px;
+    line-height: 40px;
+    font-weight: 800;
+    position: absolute;
+    right: 68.82%;
+    left: 19.79%;
+    width: 11.39%;
+    top: 224px;
+}
+
+.group-2 {
+    position: absolute;
+    inset: 0;
+}
+
+.sports-txt-is-a-project-by-nms-productions-bv-part-of-new-media-services-a-global-company-blending-machine-learning-with-human-powered-services-nmsp-creates-online-platforms-for-fans-brands-and-content-creators-to-connect-communicate-and-share {
+    color: #ffffff;
+    text-align: left;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 25px;
+    line-height: 28px;
+    font-weight: 400;
+    position: absolute;
+    left: calc(50% - 430px);
+    top: 1273px;
+    width: 796px;
+    height: 113px;
+}
+
+.ellipse-192 {
+    background: #568bb7;
+    border-radius: 50%;
+    width: 449px;
+    height: 452px;
+    position: absolute;
+    left: 612px;
+    top: 1540px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(-1, 1);
+    filter: blur(175px);
+}
+
+.ellipse-202 {
+    background: #568bb7;
+    border-radius: 50%;
+    width: 449px;
+    height: 452px;
+    position: absolute;
+    left: 1326px;
+    top: 1540px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(-1, 1);
+    filter: blur(175px);
+}
+
+.rectangle-186 {
+    background: #1a86e0;
+    width: 1449px;
+    height: 104px;
+    position: absolute;
+    left: -19px;
+    top: 2256px;
+    filter: blur(50px);
+}
+
+.rectangle-187 {
+    background: linear-gradient(to left, #000000, #000000);
+    width: 100%;
+    height: 764px;
+    position: absolute;
+    right: 0%;
+    left: 0%;
+    top: 1616px;
+    object-fit: cover;
+}
+
+.key-people {
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Inter-ExtraBold', sans-serif;
+    font-size: 50px;
+    line-height: 45px;
+    font-weight: 800;
+    position: absolute;
+    right: 40.49%;
+    left: 40.56%;
+    width: 18.96%;
+    top: 1705px;
+}
+
+.reina {
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Inika-Bold', sans-serif;
+    font-size: 50px;
+    line-height: 28px;
+    font-weight: 700;
+    position: absolute;
+    left: 111px;
+    top: 2280px;
+}
+
+.shawn {
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Inika-Bold', sans-serif;
+    font-size: 50px;
+    line-height: 28px;
+    font-weight: 700;
+    position: absolute;
+    left: 450px;
+    top: 2280px;
+}
+
+.harper {
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Inika-Bold', sans-serif;
+    font-size: 50px;
+    line-height: 28px;
+    font-weight: 700;
+    position: absolute;
+    left: 822px;
+    top: 2276px;
+}
+
+.kalista {
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Inika-Bold', sans-serif;
+    font-size: 50px;
+    line-height: 28px;
+    font-weight: 700;
+    position: absolute;
+    left: 1196px;
+    top: 2266px;
+}
+
+.chief-executive-order {
+    color: #ffffff;
+    text-align: left;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 400;
+    position: absolute;
+    left: 74px;
+    top: 2314px;
+    width: 218px;
+    height: 27px;
+}
+
+.president {
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 400;
+    position: absolute;
+    left: 422px;
+    top: 2314px;
+    width: 218px;
+    height: 27px;
+}
+
+.vice-president {
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 400;
+    position: absolute;
+    left: 794px;
+    top: 2315px;
+    width: 218px;
+    height: 27px;
+}
+
+.chief-marketing-officer {
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Inter-Regular', sans-serif;
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 400;
+    position: absolute;
+    left: 1167px;
+    top: 2312px;
+    width: 218px;
+    height: 27px;
+}
+
+.member-button {
+    background: #ffffff;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+    align-items: center;
+    justify-content: center;
+    width: 246px;
+    height: 61px;
+    position: absolute;
+    right: 333px;
+    top: 3082px;
+}
+
+.button {
+    color: var(--default-black, #000000);
+    text-align: left;
+    font-family: 'Inter-SemiBold', sans-serif;
+    font-size: 16px;
+    line-height: 18px;
+    font-weight: 600;
+    position: relative;
+}
+
+.build-a-unified-community-with-sports-txt {
+    color: var(--default-white, #ffffff);
+    text-align: center;
+    font-family: 'Inter-ExtraBold', sans-serif;
+    font-size: 60px;
+    font-weight: 800;
+    position: absolute;
+    right: 20px;
+    top: 2767px;
+    width: 873px;
+    height: 335px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ellipse-38 {
+    background: #568bb7;
+    border-radius: 50%;
+    width: 453.32px;
+    height: 452px;
+    position: absolute;
+    left: 536.07px;
+    top: 2663px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(-1, 1);
+    filter: blur(175px);
+}
+
+.ellipse-39 {
+    background: #568bb7;
+    border-radius: 50%;
+    width: 453.32px;
+    height: 452px;
+    position: absolute;
+    left: 512.85px;
+    top: 2938px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(-1, 1);
+    filter: blur(175px);
+}
+
+.ellipse-40 {
+    background: rgba(27, 110, 184, 0.50);
+    border-radius: 50%;
+    width: 397px;
+    height: 349px;
+    position: absolute;
+    left: 111px;
+    top: 2714px;
+}
+
+.ellipse-41 {
+    background: rgba(248, 252, 255, 0.50);
+    border-radius: 50%;
+    width: 397px;
+    height: 349px;
+    position: absolute;
+    left: 19px;
+    top: 2938px;
+}
+
+.ellipse-42 {
+    background: rgba(230, 25, 38, 0.50);
+    border-radius: 50%;
+    width: 397px;
+    height: 349px;
+    position: absolute;
+    left: 225px;
+    top: 2940px;
+}
+
+.confident-asian-female-entrepreneur-saleswoman-suit-introduce-product-showing-place-clients-bu-removebg-preview-3 {
+    width: 476.54px;
+    height: 528px;
+    position: absolute;
+    left: 135px;
+    top: 2759px;
+    object-fit: cover;
+}
+
+.ellipse-43 {
+    background: rgba(246, 239, 239, 0.50);
+    border-radius: 50%;
+    width: 208px;
+    height: 216px;
+    position: absolute;
+    left: 416px;
+    top: 2989px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(-1, 1);
+    filter: blur(200px);
+}
+
+.navbar {
+    width: 1465px;
+    height: 95px;
+    position: absolute;
+    left: calc(50% - 739px);
+    top: 3447px;
+    overflow: visible;
+}
+
+.screenshot-2024-04-25-103132-1-removebg-preview {
+    width: 18.66%;
+    height: 49.6px;
+    position: absolute;
+    right: 70.07%;
+    left: 11.27%;
+    top: 3460px;
+    transform-origin: 0 0;
+    transform: rotate(0.341deg) scale(1, 1);
+    object-fit: cover;
+}
+
+.privacy-and-terms {
+    color: var(--default-white, #ffffff);
+    text-align: center;
+    font-family: 'Inter-ExtraBold', sans-serif;
+    font-size: 16px;
+    font-weight: 800;
+    position: absolute;
+    right: 45%;
+    left: 44.79%;
+    width: 10.21%;
+    top: 3476px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact-us {
+    color: var(--default-white, #ffffff);
+    text-align: center;
+    font-family: 'Inter-ExtraBold', sans-serif;
+    font-size: 16px;
+    font-weight: 800;
+    position: absolute;
+    right: 20.07%;
+    left: 73.75%;
+    width: 6.18%;
+    top: 3476px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.team-2 {
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 4px;
+    width: 258.63px;
+    height: 328px;
+    position: absolute;
+    left: 48px;
+    top: 1901px;
+    object-fit: cover;
+}
+
+.team-6 {
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 4px;
+    width: 909px;
+    height: 540px;
+    position: absolute;
+    left: 233px;
+    top: 704px;
+    object-fit: cover;
+}
+
+.team-3 {
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 4px;
+    width: 258.63px;
+    height: 328px;
+    position: absolute;
+    left: 402px;
+    top: 1901px;
+    object-fit: cover;
+}
+
+.team-4 {
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 4px;
+    width: 258.63px;
+    height: 328px;
+    position: absolute;
+    left: 772px;
+    top: 1901px;
+    object-fit: cover;
+}
+
+.team-5 {
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 4px;
+    width: 258.63px;
+    height: 328px;
+    position: absolute;
+    left: 1142px;
+    top: 1901px;
+    object-fit: cover;
+}
+
+a{
+    color: white;
+}
+
